@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: python-backend
-          image: shohabbos7/python-backend:4
+          image: shohabbos7/python-backend:5
           ports:
             - containerPort: 8000
